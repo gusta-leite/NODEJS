@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Ana Clara",
+        "nota1": 10,
+        "nota2": 9,
+        "nota3": 10,
+        "nota4": 8.5
+    },
+    {
+        "nome": "Gustavo",
+        "nota1": 8,
+        "nota2": 7,
+        "nota3": 6,
+        "nota4": 9
+    },
+    {
+        "nome": "Diulia",
+        "nota1": 2,
+        "nota2": 4,
+        "nota3": 3,
+        "nota4": 5
+    },
+    {
+        "nome": "Pedro",
+        "nota1": 10,
+        "nota2": 9,
+        "nota3": 8,
+        "nota4": 9.5
+    }
+]
